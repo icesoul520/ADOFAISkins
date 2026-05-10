@@ -11,6 +11,6 @@ I'm a beginner, this is my first time writing a mod, please point out any shortc
 
 All text is machine translated.
 
-Latest version download link：https://wwaqr.lanzoul.com/iO4XR3ojtp0
+Latest version download link：https://wwaqr.lanzoup.com/iO4XR3ojtp0b
 
 Update announcement published on Bilibili
