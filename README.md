@@ -10,3 +10,7 @@ Additionally, this mod includes menu icon replacement and in-editor font replace
 I'm a beginner, this is my first time writing a mod, please point out any shortcomings.
 
 All text is machine translated.
+
+Latest version download link：https://wwaqr.lanzoul.com/iO4XR3ojtp0
+
+Update announcement published on Bilibili
